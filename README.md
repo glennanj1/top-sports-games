@@ -1,8 +1,6 @@
-# Top::Sports::Games
+# Top Sports Games CLI
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/top/sports/games`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Top Sports Games is a ruby CLI that uses Nokogiri to scrape web data and return it on the command line. This program allows users to see relevant basketball games with the respective odds. 
 
 ## Installation
 
